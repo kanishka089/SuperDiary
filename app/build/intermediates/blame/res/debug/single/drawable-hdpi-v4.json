@@ -8,12 +8,12 @@
         "source": "C:\\Users\\Yohan\\.android\\build-cache\\0d4d19eec06f750cf4601bd405d937ad9ccc2853\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
-        "merged": "D:\\CompanyProjects\\SuperDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t2.jpg",
-        "source": "D:\\CompanyProjects\\SuperDiary1\\app\\src\\main\\res\\drawable-hdpi\\t2.jpg"
-    },
-    {
         "merged": "D:\\CompanyProjects\\SuperDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_full_open_on_phone.png",
         "source": "C:\\Users\\Yohan\\.android\\build-cache\\0d4d19eec06f750cf4601bd405d937ad9ccc2853\\output\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\CompanyProjects\\SuperDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t2.jpg",
+        "source": "D:\\CompanyProjects\\SuperDiary1\\app\\src\\main\\res\\drawable-hdpi\\t2.jpg"
     },
     {
         "merged": "D:\\CompanyProjects\\SuperDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",

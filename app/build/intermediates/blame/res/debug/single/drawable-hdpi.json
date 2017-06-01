@@ -28,11 +28,11 @@
         "source": "D:\\CompanyProjects\\SuperDiary1\\app\\src\\main\\res\\drawable-hdpi\\smllogo.png"
     },
     {
-        "merged": "D:\\CompanyProjects\\SuperDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\okbtnup.png",
-        "source": "D:\\CompanyProjects\\SuperDiary1\\app\\src\\main\\res\\drawable-hdpi\\okbtnup.png"
-    },
-    {
         "merged": "D:\\CompanyProjects\\SuperDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\okbtndown.png",
         "source": "D:\\CompanyProjects\\SuperDiary1\\app\\src\\main\\res\\drawable-hdpi\\okbtndown.png"
+    },
+    {
+        "merged": "D:\\CompanyProjects\\SuperDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\okbtnup.png",
+        "source": "D:\\CompanyProjects\\SuperDiary1\\app\\src\\main\\res\\drawable-hdpi\\okbtnup.png"
     }
 ]

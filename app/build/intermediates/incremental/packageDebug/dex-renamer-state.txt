@@ -1,7 +1,0 @@
-#Sun May 28 00:14:40 IST 2017
-base.0=D\:\\CompanyProjects\\SuperDiary1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9f5b0f18354c22de425d7fbda7f8b2c45b3eaa74
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=D\:\\CompanyProjects\\SuperDiary1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_79eb948f7c951bb3d17134a263f1e7756d47fcde\\classes.dex
-base.1=D\:\\CompanyProjects\\SuperDiary1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_79eb948f7c951bb3d17134a263f1e7756d47fcde
-file.0=D\:\\CompanyProjects\\SuperDiary1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9f5b0f18354c22de425d7fbda7f8b2c45b3eaa74\\classes.dex

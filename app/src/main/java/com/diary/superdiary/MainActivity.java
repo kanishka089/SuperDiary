@@ -14,6 +14,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
+import com.google.android.gms.ads.InterstitialAd;
 import com.google.android.gms.ads.MobileAds;
 
 public class MainActivity extends Activity {
@@ -22,7 +23,7 @@ public class MainActivity extends Activity {
 	TextView url1;
 	RelativeLayout rl;
 	private AdView mAdView;
-	
+	private InterstitialAd mAdViewIn;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -76,10 +77,12 @@ public class MainActivity extends Activity {
 			startActivity(new Intent("com.diary.superdiary.passchange"));
 			
 		}*/
-		
-		Button enter = (Button) findViewById(R.id.button1);
-				
+		mAdViewIn=new InterstitialAd(this);
+		mAdViewIn.setAdUnitId("ca-app-pub-6699123015236427/5822572791");
+		AdRequest request=new AdRequest.Builder().build();
+		mAdViewIn.loadAd(request);
 
+		Button enter = (Button) findViewById(R.id.button1);
 		pass = (EditText) findViewById(R.id.pass);
 		final Toast error = Toast.makeText(this, "Invalid Login",
 				Toast.LENGTH_SHORT);
@@ -98,11 +101,11 @@ public class MainActivity extends Activity {
 					pass.setText("");
 					error.show();
 				}
-
+				if (mAdViewIn.isLoaded()){
+					mAdViewIn.show();
+				}
 			}
 		});
-
-	
 	
 	}
 

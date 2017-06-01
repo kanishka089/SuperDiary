@@ -20,12 +20,12 @@
         "source": "D:\\CompanyProjects\\SuperDiary1\\app\\src\\main\\res\\layout\\custom_row_view.xml"
     },
     {
-        "merged": "D:\\CompanyProjects\\SuperDiary1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\customlistviewhover.xml",
-        "source": "D:\\CompanyProjects\\SuperDiary1\\app\\src\\main\\res\\layout\\customlistviewhover.xml"
-    },
-    {
         "merged": "D:\\CompanyProjects\\SuperDiary1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "D:\\CompanyProjects\\SuperDiary1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\CompanyProjects\\SuperDiary1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\customlistviewhover.xml",
+        "source": "D:\\CompanyProjects\\SuperDiary1\\app\\src\\main\\res\\layout\\customlistviewhover.xml"
     },
     {
         "merged": "D:\\CompanyProjects\\SuperDiary1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home.xml",
