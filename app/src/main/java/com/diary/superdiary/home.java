@@ -69,7 +69,9 @@ public class home extends Activity{
 		
 
 		contactList=db.getAllContacts();
-
+        if(contactList.size()>=5){
+            startActivity(new Intent("com.diary.superdiary.getproversion"));
+        }
         listView = (ListView) findViewById(R.id.listView1);
         listView.setAdapter(new MyCustomBaseAdapter(this, contactList));
         

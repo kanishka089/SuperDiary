@@ -1,7 +1,19 @@
 [
     {
+        "merged": "C:\\Users\\Yohan\\Desktop\\New folder\\superdiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loginup.png",
+        "source": "C:\\Users\\Yohan\\Desktop\\New folder\\superdiary\\app\\src\\main\\res\\drawable-hdpi\\loginup.png"
+    },
+    {
+        "merged": "C:\\Users\\Yohan\\Desktop\\New folder\\superdiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\diaryicon.png",
+        "source": "C:\\Users\\Yohan\\Desktop\\New folder\\superdiary\\app\\src\\main\\res\\drawable-hdpi\\diaryicon.png"
+    },
+    {
         "merged": "D:\\CompanyProjects\\SuperDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logindown.png",
         "source": "D:\\CompanyProjects\\SuperDiary1\\app\\src\\main\\res\\drawable-hdpi\\logindown.png"
+    },
+    {
+        "merged": "C:\\Users\\Yohan\\Desktop\\New folder\\superdiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\smllogo.png",
+        "source": "C:\\Users\\Yohan\\Desktop\\New folder\\superdiary\\app\\src\\main\\res\\drawable-hdpi\\smllogo.png"
     },
     {
         "merged": "D:\\CompanyProjects\\SuperDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btndown.png",
@@ -10,6 +22,22 @@
     {
         "merged": "D:\\CompanyProjects\\SuperDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loginup.png",
         "source": "D:\\CompanyProjects\\SuperDiary1\\app\\src\\main\\res\\drawable-hdpi\\loginup.png"
+    },
+    {
+        "merged": "C:\\Users\\Yohan\\Desktop\\New folder\\superdiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\okbtnup.png",
+        "source": "C:\\Users\\Yohan\\Desktop\\New folder\\superdiary\\app\\src\\main\\res\\drawable-hdpi\\okbtnup.png"
+    },
+    {
+        "merged": "C:\\Users\\Yohan\\Desktop\\New folder\\superdiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btndown.png",
+        "source": "C:\\Users\\Yohan\\Desktop\\New folder\\superdiary\\app\\src\\main\\res\\drawable-hdpi\\btndown.png"
+    },
+    {
+        "merged": "C:\\Users\\Yohan\\Desktop\\New folder\\superdiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\okbtndown.png",
+        "source": "C:\\Users\\Yohan\\Desktop\\New folder\\superdiary\\app\\src\\main\\res\\drawable-hdpi\\okbtndown.png"
+    },
+    {
+        "merged": "C:\\Users\\Yohan\\Desktop\\New folder\\superdiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logindown.png",
+        "source": "C:\\Users\\Yohan\\Desktop\\New folder\\superdiary\\app\\src\\main\\res\\drawable-hdpi\\logindown.png"
     },
     {
         "merged": "D:\\CompanyProjects\\SuperDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\diaryicon.png",
@@ -24,8 +52,16 @@
         "source": "D:\\CompanyProjects\\SuperDiary1\\app\\src\\main\\res\\drawable-hdpi\\btnup.png"
     },
     {
+        "merged": "C:\\Users\\Yohan\\Desktop\\New folder\\superdiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btnup.png",
+        "source": "C:\\Users\\Yohan\\Desktop\\New folder\\superdiary\\app\\src\\main\\res\\drawable-hdpi\\btnup.png"
+    },
+    {
         "merged": "D:\\CompanyProjects\\SuperDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\smllogo.png",
         "source": "D:\\CompanyProjects\\SuperDiary1\\app\\src\\main\\res\\drawable-hdpi\\smllogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Yohan\\Desktop\\New folder\\superdiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Yohan\\Desktop\\New folder\\superdiary\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
         "merged": "D:\\CompanyProjects\\SuperDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\okbtndown.png",

@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\Yohan\\Desktop\\New folder\\superdiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Yohan\\Desktop\\New folder\\superdiary\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
         "merged": "D:\\CompanyProjects\\SuperDiary1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
         "source": "D:\\CompanyProjects\\SuperDiary1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
     }

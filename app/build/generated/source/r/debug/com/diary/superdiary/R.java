@@ -194,9 +194,10 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int customlistviewhover=0x7f030006;
         public static final int editdata=0x7f030007;
         public static final int edittextborder=0x7f030008;
-        public static final int home=0x7f030009;
-        public static final int passwordchange=0x7f03000a;
-        public static final int viewdata=0x7f03000b;
+        public static final int getproversion=0x7f030009;
+        public static final int home=0x7f03000a;
+        public static final int passwordchange=0x7f03000b;
+        public static final int viewdata=0x7f03000c;
     }
     public static final class menu {
         public static final int main=0x7f0a0000;

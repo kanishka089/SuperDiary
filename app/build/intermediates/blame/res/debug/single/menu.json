@@ -4,6 +4,14 @@
         "source": "D:\\CompanyProjects\\SuperDiary1\\app\\src\\main\\res\\menu\\main.xml"
     },
     {
+        "merged": "C:\\Users\\Yohan\\Desktop\\New folder\\superdiary\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
+        "source": "C:\\Users\\Yohan\\Desktop\\New folder\\superdiary\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yohan\\Desktop\\New folder\\superdiary\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Yohan\\Desktop\\New folder\\superdiary\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
         "merged": "D:\\CompanyProjects\\SuperDiary1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
         "source": "D:\\CompanyProjects\\SuperDiary1\\app\\src\\main\\res\\menu\\menu.xml"
     }
